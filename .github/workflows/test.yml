@@ -1,0 +1,21 @@
+name: test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  unittest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run every problem's tests
+        run: |
+          for d in 0*/; do
+            echo "::group::$d"
+            (cd "$d" && python -m unittest -v)
+            echo "::endgroup::"
+          done
