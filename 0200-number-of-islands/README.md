@@ -10,6 +10,7 @@
 | โค้ด | [number_of_islands.py](number_of_islands.py) |
 | เทส | [test_number_of_islands.py](test_number_of_islands.py) |
 | บทความเต็ม | https://blog.showkhun.co/blog/leetcode-200-number-of-islands/ |
+| คลิปสั้น | https://youtube.com/shorts/8tcDQItqIKg |
 | โจทย์ต้นฉบับ | https://leetcode.com/problems/number-of-islands/ |
 
 รันเทสในโฟลเดอร์นี้:

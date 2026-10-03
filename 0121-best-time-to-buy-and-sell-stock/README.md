@@ -11,6 +11,7 @@
 | โค้ด | [best_time_to_buy_and_sell_stock.py](best_time_to_buy_and_sell_stock.py) |
 | เทส | [test_best_time_to_buy_and_sell_stock.py](test_best_time_to_buy_and_sell_stock.py) |
 | บทความเต็ม | https://blog.showkhun.co/blog/leetcode-121-best-time-buy-sell-stock/ |
+| คลิปสั้น | https://youtube.com/shorts/U3VnKCDIUIo |
 | โจทย์ต้นฉบับ | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 
 รันเทสในโฟลเดอร์นี้:

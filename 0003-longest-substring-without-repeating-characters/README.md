@@ -11,6 +11,7 @@
 | โค้ด | [longest_substring.py](longest_substring.py) |
 | เทส | [test_longest_substring.py](test_longest_substring.py) |
 | บทความเต็ม | https://blog.showkhun.co/blog/leetcode-3-longest-substring-without-repeating/ |
+| คลิปสั้น | https://youtube.com/shorts/5n6Cs3O3iT0 |
 | โจทย์ต้นฉบับ | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 
 รันเทสในโฟลเดอร์นี้:

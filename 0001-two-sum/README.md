@@ -10,6 +10,7 @@
 | โค้ด | [two_sum.py](two_sum.py) |
 | เทส | [test_two_sum.py](test_two_sum.py) |
 | บทความเต็ม | https://blog.showkhun.co/blog/leetcode-two-sum/ |
+| คลิปสั้น | https://youtube.com/shorts/hbxkNXZ4FUo |
 | โจทย์ต้นฉบับ | https://leetcode.com/problems/two-sum/ |
 
 รันเทสในโฟลเดอร์นี้:

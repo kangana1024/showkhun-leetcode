@@ -10,6 +10,7 @@
 | โค้ด | [valid_parentheses.py](valid_parentheses.py) |
 | เทส | [test_valid_parentheses.py](test_valid_parentheses.py) |
 | บทความเต็ม | https://blog.showkhun.co/blog/leetcode-valid-parentheses/ |
+| คลิปสั้น | https://youtube.com/shorts/OpjXqrXBLkw |
 | โจทย์ต้นฉบับ | https://leetcode.com/problems/valid-parentheses/ |
 
 รันเทสในโฟลเดอร์นี้:
